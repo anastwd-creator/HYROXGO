@@ -1,0 +1,6 @@
+{
+  "name": "HYROXGO",
+  "description": "Minimalist HYROX workout log, customizable divisions & race stations (add, remove, and edit stations/weights), social media sharing, and dynamic race split timer with Roxzone transition tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
