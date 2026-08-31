@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HYROXGO</string>
+    <string name="athlete_mode">ATHLETE MODE</string>
+    <string name="tab_divisions">DIVISIONS</string>
+    <string name="tab_race_timer">RACE TIMER</string>
+    <string name="tab_workout_log">WORKOUT LOG</string>
+    <string name="gender_men">Men</string>
+    <string name="gender_women">Women</string>
+    <string name="category_open">Open</string>
+    <string name="category_pro">Pro</string>
+    <string name="category_doubles">Doubles</string>
+    <string name="category_custom">Custom</string>
+    <string name="start_race">START RACE SIMULATION</string>
+    <string name="pause_race">PAUSE RACE</string>
+    <string name="resume_race">RESUME RACE</string>
+    <string name="complete_interval">COMPLETE INTERVAL / SPLIT</string>
+    <string name="enter_roxzone">ENTER ROXZONE</string>
+    <string name="exit_roxzone">EXIT ROXZONE &amp; START</string>
+</resources>
